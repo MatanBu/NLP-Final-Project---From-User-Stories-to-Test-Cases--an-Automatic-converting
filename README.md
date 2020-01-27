@@ -62,7 +62,7 @@ Single user-story matching
 -
 Displaying the match results between the selected user story and the test cases loaded from the data repository The presentation will be in the form of a table centering the data as well as in a graph configuration that allows you to see the relationship between the matches and the different test cases, as illustrated.
 
-![alt text](https://imgur.com/y3u0Yvj.png)
+![alt text](https://imgur.com/vWxmNaK.png)
 
 
 Entire database matching
