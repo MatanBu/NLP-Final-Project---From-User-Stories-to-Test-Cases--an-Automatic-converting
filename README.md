@@ -1,7 +1,5 @@
 # FINAL-PROJECT-From-User-Stories-to-Test-Cases-an-Automatic-converting
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/3/3f/Stock_Chart.gif)
-
 
 The project team choose to research and develop a tool for analyzing and automatically customizing user stories for test cases using natural language processing technologies (NLP).
 
