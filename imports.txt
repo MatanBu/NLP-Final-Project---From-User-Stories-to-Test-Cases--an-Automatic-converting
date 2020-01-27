@@ -1,0 +1,23 @@
+packages:
+
+work with excel
+---------------
+openpyxl
+
+
+NLP
+---------------
+spacy -  nlp tool kit
+scipy - scintific tool kit
+
+GUI
+--------------
+pyqt5
+
+BNS
+-------------
+sklearn
+
+nltk
+------
+python -m nltk.downloader punkt
