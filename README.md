@@ -1,4 +1,7 @@
-# FINAL-PROJECT-From-User-Stories-to-Test-Cases-an-Automatic-converting
+FINAL-PROJECT
+=
+From User Stories to Test cases - an Automatic converting
+-
 
 
 The project team choose to research and develop a tool for analyzing and automatically customizing user stories for test cases using natural language processing technologies (NLP).
