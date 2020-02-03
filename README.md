@@ -52,7 +52,7 @@ o	sciPy
 o	TextBlob
 
 
-The procces
+The process
 =
 ![alt text](https://imgur.com/y3u0Yvj.png)
 
